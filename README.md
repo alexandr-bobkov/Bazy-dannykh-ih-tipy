@@ -127,7 +127,7 @@
 -------
 
 <details>
-<summary><c>Задание 3. SQL vs NoSQL</c></summary>
+<summary><a>Задание 3. SQL vs NoSQL</a></summary>
 
 3.1. Напишите пять преимуществ SQL-систем по отношению к NoSQL. 
 
